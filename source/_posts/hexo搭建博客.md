@@ -1,0 +1,35 @@
+---
+title: hexo搭建博客
+date: 2022-02-23 22:10:53
+tags: hexo
+cover: https://codertoro-img01.s3.ladydaily.com/img/backbround_img/iShot_2023-01-28_16.32.41.png
+categories: 
+  - 技术教程
+  - 博客搭建
+---
+
+
+
+## 一.工具
+
+git bash软件（用于发布写好的文章或预览）
+
+Typora软件（用于写文章，基于markdown语法）
+
+谷歌浏览器（用于预览网页效果）
+
+<!--more-->
+
+## 二.步骤
+
+1. 启动git bash
+2. 用cd命令进入blog文件夹下   `cd e:/blog`
+3. hexo new创建新的文章  `hexo new xxx`
+4. 在E:\blog\source\_posts目录下找到xxx.md,用Typora打开
+5. 原创一篇文章，ctrl+s保存
+6. 继续在blog目录下执行以下命令
+7. hexo clean(清理缓存)
+8. hexo g(生成)
+9. hexo s(预览,ctrl+c关闭预览)
+10. hexo d(推到GitHub上)
+11. 登录`coder-ox.github.io`查看  

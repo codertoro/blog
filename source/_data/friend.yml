@@ -1,0 +1,74 @@
+class:
+  class_name: 大佬云集地
+  friend_list:
+    1:
+      name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+    2:
+      name: 葱苓
+      link: https://blog.itciraos.cn
+      avatar: https://gcore.jsdelivr.net/gh/ciraos/ciraos-static@main/img/2022-12-30-23-26-12.webp
+      descr: Dare && Do
+    # 3:
+    #   name: 去不图床
+    #   link: https://7bu.top/upload
+    #   avatar: https://cdn.staticaly.com/gh/codertoro/image_hosting@master/image.3l2mq6lxxs80.webp
+    #   descr: 收费的图床工具，号称永久保存
+    # 4:
+    #   name: 宝塔面板
+    #   link: https://www.bt.cn/new/index.html?invite_code=MV9rd3Jmbno=
+    #   avatar: https://cdn.staticaly.com/gh/codertoro/image_hosting@master/image.azckwtzeujk.webp
+    #   descr: 简单好用的Linux/Windows服务器运维管理面板
+    # 5:
+    #   name: 学生云服务器
+    #   link: https://cloud.tencent.com/act/campus
+    #   avatar: https://img0.baidu.com/it/u=1553499101,1560333694&fm=253&fmt=auto&app=138&f=JPEG?w=775&h=500
+    #   descr: 学生云主机_学生云数据库_云+校园特惠套餐 - 腾讯云
+    # 6:
+    #   name: GitHub
+    #   link: https://github.com
+    #   avatar: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png
+    #   descr: 程序猿的家
+    # 7:
+    #   name: IconFinder
+    #   link: https://www.iconfinder.com/
+    #   avatar: https://www.iconfinder.com/static/img/logo/black.svg?7cfe2038c8
+    #   descr: 小图标和小图片，都是图片格式，可直接复制链接
+    # 8:  
+    #   name: 微信公众平台
+    #   link: https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D77%26action%3Dlist_card%26token%3D2065787066%26lang%3Dzh_CN
+    #   avatar: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/374_Weixin_logo-128.png
+    #   descr: 微信公众号创作平台
+    # 9:  
+    #   name: 优酷创作平台
+    #   link: https://mp.youku.com/new/video
+    #   avatar: https://img1.baidu.com/it/u=1754605651,3075632198&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800
+    #   descr: 免费上传，博文中挂载非常友好
+    # 8:  
+    #   name: 微信公众平台
+    #   link: https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D77%26action%3Dlist_card%26token%3D2065787066%26lang%3Dzh_CN
+    #   avatar: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/374_Weixin_logo-128.png
+    #   descr: 微信公众号创作平台
+    # 8:  
+    #   name: 微信公众平台
+    #   link: https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D77%26action%3Dlist_card%26token%3D2065787066%26lang%3Dzh_CN
+    #   avatar: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/374_Weixin_logo-128.png
+    #   descr: 微信公众号创作平台
+
+
+
+# class2:
+#   class_name: 链接无效
+#   link_list:
+#     1:
+#       name: test
+#       link: https://blog.xxx.com
+#       avatar: https://img.antmoe.com/avatar.png
+#       descr: test
+#     2:
+#       name: test
+#       link: https://www.axxxx.cn/
+#       avatar: https://img.antmoe.com/avatar.png
+#       descr: test
