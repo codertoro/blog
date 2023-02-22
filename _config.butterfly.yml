@@ -962,11 +962,11 @@ inject:
     - <link rel="stylesheet" href="/css/h.css">
   bottom:
     #下，音乐播放器需要的插件
-    - <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    # - <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
     # - <script id="xplayer" src="https://music.mxbk.cc/Static/player/player.js" key="test" m="0"></script>
     #下，音乐播放器，网址：https://music.mxbk.cc/index/home/userinfo.html 账号：codertoro密码：nyw13753036700
     #安全码1234
-    - <script id="xplayer" src="https://music.mxbk.cc/Static/player/player.js" key="63d87c31f35a3" m="1"></script>
+    # - <script id="xplayer" src="https://music.mxbk.cc/Static/player/player.js" key="63d87c31f35a3" m="1"></script>
     
 
 
