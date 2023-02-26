@@ -111,7 +111,7 @@ deploy:
   type: 'git'
   # repository: https://github.com/coder-ox/coder-ox.github.io.git
   repository: 
-    server: codertoro@8.130.49.181:/home/codertoro/blog.git
+    server: codertoro@hexo.codertoro.top:/home/codertoro/blog.git
     # github: https://github.com/coder-ox/coder-ox.github.io.git
     # coding: git@e.coding.net:codertoro/codertoro/codertoro.git
   # repository: git@ssh.fastgit.org:coder-ox/coder-ox.github.io.git
