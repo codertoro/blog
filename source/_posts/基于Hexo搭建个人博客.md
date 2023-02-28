@@ -66,7 +66,50 @@ hexo s
 ``` bash
 hexo n "我的第一篇文章"
 ```
-#### 2. 编写文章
+#### <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    width:70%" 
+    src="https://codertoro-img.oss-cn-wulanchabu.aliyuncs.com/life/3551677302211_.pic.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">更改默认branch为mybranch</div>
+</center>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    width:70%" 
+    src="https://img.codertoro.top/life/iShot_2023-02-25_16.20.20.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">自有img</div>
+</center>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    width:70%" 
+    src="https://img.codertoro.top/life/%E7%BC%93%E8%80%83%E8%80%83%E7%82%B9%E8%AE%B2%E8%A7%A3.mp4">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">视频</div>
+</center>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    width:70%" 
+    src="https://codertoro-img.oss-cn-wulanchabu-internal.aliyuncs.com/life/3551677302211_.pic.jpg?Expires=1677344802&OSSAccessKeyId=TMP.3KjqEK6J7t3pDDbBFhojFZh3dyRvMU2S9F4fKmV37N7thnbVjDAzN6MGuMPJQqx1eP166roftGx7Dph7Z2ecL5wNGjiaJp&Signature=nb6uTaxOmm5Qj5rgfUI%2FEs1gN0I%3D">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">更改默认branch为mybranch</div>
+</center>
 - 使用 [MarkDown](https://hx.dcloud.net.cn/Tutorial/Language/markdown) 语法
 - 软件推荐:VSCode, HBuilderX, Typora(前两个免费，后一个也有免费版，我用的Typora，界面简洁)
 - 嵌入[图片](https://codertoro.gitee.io/2022/09/07/%E5%9F%BA%E4%BA%8Egithub%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%95%99%E7%A8%8B/)、[视频](https://codertoro.gitee.io/2022/09/06/%E8%A7%86%E9%A2%91%E4%B8%8A%E4%BC%A0%E5%88%9D%E7%BA%A7%E6%95%99%E7%A8%8B/)等方法请点击超链接
