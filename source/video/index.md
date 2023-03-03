@@ -84,5 +84,40 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 
 {% endfolding %}
 
+{% folding blue, vlog %}
+
+{% tabs %}
+<!-- tab 这三个folding是视频上传格式和模版 -->
+{% videos center, 3%}
+{% video https://codertoro-img01.s3.ladydaily.com/video/2023/02/20230226%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.mp4 %}
+{% endvideos %}
+<!-- endtab -->
+
+<!-- tab 3可以确定视频大小center居中 -->
+{% videos center, 3%}
+{% video https://codertoro-img01.s3.ladydaily.com/video/2023/02/20230226%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.mp4 %}
+{% endvideos %}
+<!-- endtab -->
+
+<!-- tab video不适用于优酷b站-用原始的代码-搭配bili.css -->
+
+<div align=center class="aspect-ratio">
+    <iframe src="https://player.youku.com/embed/XNTk0NTg3MjA2OA==" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    autoplay="0"
+    high_quality=1
+    danmaku=1 
+    allowfullscreen="true"> 
+    </iframe>
+</div>
+<!-- endtab -->
+
+{% endtabs %}
+
+{% endfolding %}
+
 
 
