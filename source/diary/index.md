@@ -10,11 +10,58 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 ---
 
 {% timeline 2023  %}
-<!-- timeline 02-20 周一 晴 -->
+<!-- timeline 02-26 周日 晴 -->
+&ensp;&ensp;&ensp;&ensp;【大连游记】今天下午缓考人工智能，题很简单。考完试去滨海公园找裴，滨海公园好美。
+{% folding blue, 附几张滨海公园美景 %}
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/IMG_20230226_180540%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/IMG_20230226_184135%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/IMG_20230226_180415%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/IMG_20230226_165933%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/IMG_20230226_165358%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/02/20230226%E5%9C%B0%E5%9B%BE.jpg)
+{% endfolding %}
+{% folding blue, vlog %}
+
+{% tabs %}
+<!-- tab 一群小不点 -->
+<div align=center class="aspect-ratio">
+    <iframe src="https://codertoro-img01.s3.ladydaily.com/video/2023/02/20230226%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.mp4" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    autoplay="0"
+    high_quality=1
+    danmaku=1 
+    allowfullscreen="true"> 
+    </iframe>
+</div>
+<!-- endtab -->
+
+<!-- tab 现实中见过的最大的轮船 -->
+<div align=center class="aspect-ratio">
+    <iframe src="https://codertoro-img01.s3.ladydaily.com/video/2023/02/video_20230226%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD.mp4" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    autoplay="0"
+    high_quality=1
+    danmaku=1 
+    allowfullscreen="true"> 
+    </iframe>
+</div>
+<!-- endtab -->
+
+{% endtabs %}
+
+{% endfolding %}
+<!-- endtimeline -->
+<!-- timeline 02-21 周一 晴 -->
 &ensp;&ensp;&ensp;&ensp;考研第二天，今天摆大烂。
 <!-- endtimeline -->
 <!-- timeline 02-20 周一 晴 -->
-&ensp;&ensp;&ensp;&ensp;考研第一天，今天算是作息尝试吧，昨晚0:30才睡，计划6:40起床，结果晚起了一小时，背单词的时间就这样没了。今晚应该在23；30前闭眼睡觉。中午11:00吃午饭，有点早，应该11:20再出发，稍微比B区的同学早一点就可以。12：40-13:40午休，午休还算不错，但中午时间宝贵，不可以长时间看手机。下午14:00到图书馆，感觉下午刚到是我一天中最最清醒的时间，应该计划着做一点比较有难度的事情。
+&ensp;&ensp;&ensp;&ensp;【大连游记】考研第一天，今天算是作息尝试吧，昨晚0:30才睡，计划6:40起床，结果晚起了一小时，背单词的时间就这样没了。今晚应该在23；30前闭眼睡觉。中午11:00吃午饭，有点早，应该11:20再出发，稍微比B区的同学早一点就可以。12：40-13:40午休，午休还算不错，但中午时间宝贵，不可以长时间看手机。下午14:00到图书馆，感觉下午刚到是我一天中最最清醒的时间，应该计划着做一点比较有难度的事情。
 &ensp;&ensp;&ensp;&ensp;大三下学期开学了，我17号到校，19号和舍友出去玩了一天。今天算是开学的第一天，早早的来到图书馆，看了一小会课就犯困，今后可怎么办？
 {% folding blue, 附几张昨天的大连夜景 %}
 ![](https://codertoro-img01.s3.ladydaily.com/img/material/WechatIMG336.jpeg)
