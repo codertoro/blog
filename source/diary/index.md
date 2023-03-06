@@ -10,6 +10,22 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 ---
 
 {% timeline 2023  %}
+<!-- timeline 03-06 周一 晴 -->
+&ensp;&ensp;&ensp;&ensp;【大连游记】今天我和杨舜博、陈宇哲、王天獒去吃海底捞，见证了全新的海底捞吃法——用调料自制锅底。牛肉粒+番茄汤，粉条+辣椒+醋(酸辣粉)，香料+番茄汤(yyds)。人均40元的海底捞，将白嫖进行到底。
+{% folding blue, 附几张自制美食 %}
+{% gallery %}
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG370.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG521.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG522.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG523.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG519.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6WechatIMG520.jpeg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230306-%E5%A4%A7%E8%BF%9E%E5%AE%89%E7%9B%9B-%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6.37.19.jpg)
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/%E7%BD%91%E5%AE%89%E5%A4%87%E6%A1%88%E9%80%9A%E8%BF%8719.19.24.jpg)
+{% endgallery %}
+{% endfolding %}
+<!-- endtimeline -->
+
 <!-- timeline 02-26 周日 晴 -->
 &ensp;&ensp;&ensp;&ensp;【大连游记】今天下午缓考人工智能，题很简单。考完试去滨海公园找裴，滨海公园好美。
 {% folding blue, 附几张滨海公园美景 %}
