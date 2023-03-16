@@ -16,8 +16,12 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://codertoro.top
-permalink: :year/:month/:day/:title/
+url: https://www.codertoro.top
+permalink: :year/:month/:day/:abbrlink.html
+abbrlink: 
+  alg: crc32 #算法选项：crc16丨crc32
+  rep: hex #输出进制：dec为十进制，hex为十六进制
+# permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks

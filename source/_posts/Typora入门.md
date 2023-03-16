@@ -1,12 +1,14 @@
 ---
 title: Typora入门
-date: 2022-01-25 17:37:34
 tags: Typora
-cover: https://codertoro-img01.s3.ladydaily.com/img/material/Typora%E5%85%A5%E9%97%A8.jpg
-categories: 
-- 学习笔记
-- 软件使用
-- Typora
+cover: >-
+  https://codertoro-img01.s3.ladydaily.com/img/material/Typora%E5%85%A5%E9%97%A8.jpg
+categories:
+  - 学习笔记
+  - 软件使用
+  - Typora
+abbrlink: 72e451f7
+date: 2022-01-25 17:37:34
 ---
 
 

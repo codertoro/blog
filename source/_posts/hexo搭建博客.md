@@ -1,11 +1,13 @@
 ---
 title: hexo搭建博客
-date: 2022-02-23 22:10:53
 tags: hexo
-cover: https://codertoro-img01.s3.ladydaily.com/img/backbround_img/iShot_2023-01-28_16.32.41.png
-categories: 
+cover: >-
+  https://codertoro-img01.s3.ladydaily.com/img/backbround_img/iShot_2023-01-28_16.32.41.png
+categories:
   - 技术教程
   - 博客搭建
+abbrlink: b37651
+date: 2022-02-23 22:10:53
 ---
 
 

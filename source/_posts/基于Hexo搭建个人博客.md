@@ -1,11 +1,13 @@
 ---
 title: 基于Hexo搭建个人博客
-date: 2023-01-13 22:37:33
 tag: 教程
-cover: https://codertoro-img01.s3.ladydaily.com/img/material/%E5%9F%BA%E4%BA%8EHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.jpg
+cover: >-
+  https://codertoro-img01.s3.ladydaily.com/img/material/%E5%9F%BA%E4%BA%8EHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.jpg
 categories:
   - 技术教程
   - 博客搭建
+abbrlink: d90dd0c3
+date: 2023-01-13 22:37:33
 ---
 
 ## 一. 安装Node.js

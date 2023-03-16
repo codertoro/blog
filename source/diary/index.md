@@ -10,6 +10,12 @@ wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
 ---
 
 {% timeline 2023  %}
+<!-- timeline 03-09 周四 晴 -->
+&ensp;&ensp;&ensp;&ensp;今天我的博客终于被谷歌收录了，直接搜codertoro就可以搜到了，但是文章目前还是搜不到。
+{% folding blue, 历史性时刻hahaha %}
+![](https://codertoro-img01.s3.ladydaily.com/img/daily/2023/03/20230309%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95iShot_2023-03-09_07.53.45.jpg)
+{% endfolding %}
+<!-- endtimeline -->
 <!-- timeline 03-06 周一 晴 -->
 &ensp;&ensp;&ensp;&ensp;【大连游记】今天我和杨舜博、陈宇哲、王天獒去吃海底捞，见证了全新的海底捞吃法——用调料自制锅底。牛肉粒+番茄汤，粉条+辣椒+醋(酸辣粉)，香料+番茄汤(yyds)。人均40元的海底捞，将白嫖进行到底。
 {% folding blue, 附几张自制美食 %}

@@ -1,11 +1,12 @@
 ---
 title: win11桌面美化
-date: 2022-03-06 19:43:33
 tag: 桌面美化
-cover: https://codertoro-img01.s3.ladydaily.com/img/backbround_img/167548355754.jpg
-categories: 
+cover: 'https://codertoro-img01.s3.ladydaily.com/img/backbround_img/167548355754.jpg'
+categories:
   - 技术教程
   - 电脑妙招
+abbrlink: 3b8dddc0
+date: 2022-03-06 19:43:33
 ---
 
 

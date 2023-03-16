@@ -1,12 +1,13 @@
 ---
 title: HTML笔记
-date: 2022-01-26 11:28:29
 tags: HTML
-cover: https://codertoro-img01.s3.ladydaily.com/img/material/HTML.jpg
-categories: 
-- 学习笔记
-- 编程语言
-- HTML
+cover: 'https://codertoro-img01.s3.ladydaily.com/img/material/HTML.jpg'
+categories:
+  - 学习笔记
+  - 编程语言
+  - HTML
+abbrlink: a0ca7bc4
+date: 2022-01-26 11:28:29
 ---
 
 ​		今天开始记录我在b站尚硅谷所学的HTML5的笔记，后续将陆续记录CSS3和JavaScript。

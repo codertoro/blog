@@ -1,13 +1,15 @@
 ---
 title: 基于github图片上传教程
-date: 2022-09-07 10:09:39
-tags: 
+tags:
   - 教程
   - github
-cover: https://codertoro-img01.s3.ladydaily.com/img/material/%E5%9F%BA%E4%BA%8Egithub%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%95%99%E7%A8%8B.jpg
+cover: >-
+  https://codertoro-img01.s3.ladydaily.com/img/material/%E5%9F%BA%E4%BA%8Egithub%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%95%99%E7%A8%8B.jpg
 categories:
   - 技术教程
   - 博客搭建
+abbrlink: 801a4907
+date: 2022-09-07 10:09:39
 ---
 
 ## 一.网站工具

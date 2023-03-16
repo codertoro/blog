@@ -1,11 +1,13 @@
 ---
 title: Edge浏览器安装油猴插件
-date: 2022-12-10 10:54:07
 tags: 教程
-cover: https://codertoro-img01.s3.ladydaily.com/img/material/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%9D%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6.jpg
-categories: 
+cover: >-
+  https://codertoro-img01.s3.ladydaily.com/img/material/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%9D%E6%B2%B9%E7%8C%B4%E6%8F%92%E4%BB%B6.jpg
+categories:
   - 技术教程
   - 电脑妙招
+abbrlink: ce9ca451
+date: 2022-12-10 10:54:07
 ---
 ## 一. 工具原料
    #### 1.Edge浏览器（Chrome浏览器操作方法类似）
