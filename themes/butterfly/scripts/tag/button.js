@@ -3,6 +3,9 @@
  * {% btn url text icon option %}
  * option: color outline center block larger
  * color : default/blue/pink/red/purple/orange/green
+ * ********Button外挂标签使用当前js******
+ * ********Button外挂标签使用当前js******
+ * ********Button外挂标签使用当前js******
  */
 
 'use strict'
@@ -22,7 +25,7 @@ function btn (args) {
   option = option.trim()
 
   return `<a class="btn-beautify ${option}" href="${urlFor(url)}" 
-  title="${text}">${icon.length ? `<i class="${icon}"></i>` : ''}${text.length ? `<span>${text}</span>` : ''}</a>`
+  title="${text}" target='_blank'>${icon.length ? `<i class="${icon}"></i>` : ''}${text.length ? `<span>${text}</span>` : ''}</a>`
 }
 
 hexo.extend.tag.register('btn', btn, { ends: false })

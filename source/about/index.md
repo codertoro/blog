@@ -21,7 +21,7 @@ aside: false
 
 
 ## My Website
-主站: [codertoro.top](https://codertoro.top) 通过阿里云服务器ECS托管的主站
+主站: [codertoro.top](https://www.codertoro.top) 通过阿里云服务器ECS托管的主站
 Craft站: [blog.codertoro.top](https://blog.codertoro.top) 用笔记软件Craft生成的网站，颜值yyds
 Vercel站: [vercel.codertoro.top](https://vercel.codertoro.top) 通过vercel托管的主站
 Buckets站: [img.codertoro.top](https://img.codertoro.top) Bitiful缤纷云存储桶

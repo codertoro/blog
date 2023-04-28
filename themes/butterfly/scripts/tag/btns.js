@@ -30,9 +30,9 @@ function postCell(args, content) {
     }
   }
   if (icon.length > 0) {
-    return `<a class="button" ${url} title='${text}'><i class='${icon}'></i>${text}</a>`;
+    return `<a class="button" ${url} title='${text}' target='_blank'><i class='${icon}'></i>${text}</a>`;
   }
-  return `<a class="button" ${url} title='${text}'><img src='${img}'>${text}</a>`;
+  return `<a class="button" ${url} title='${text}' target='_blank'><img src='${img}'>${text}</a>`;
 
 }
 
