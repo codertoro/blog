@@ -113,11 +113,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://codertoro-img01.s3.ladydaily.com/img/logo/logo.jpeg
+favicon: http://oss.codertoro.top/Bucket/img/logo/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://codertoro-img01.s3.ladydaily.com/img/logo/%E5%A4%B4%E5%83%8F.jpeg
+  img: http://oss.codertoro.top/Bucket/img/logo/%E5%A4%B4%E5%83%8F.jpeg
   effect: false #头像旋转
 
 # Disable all banner image

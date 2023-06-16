@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.codertoro.top/link/index.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.codertoro.top/2023/05/12/ab49eeb4.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.codertoro.top/2023/06/16/3b767db4.html</loc>
     
     <lastmod>2023-06-16</lastmod>
@@ -32,15 +50,6 @@
     <loc>https://www.codertoro.top/diary/index.html</loc>
     
     <lastmod>2023-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.codertoro.top/2023/05/12/ab49eeb4.html</loc>
-    
-    <lastmod>2023-05-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -266,15 +275,6 @@
     <loc>https://www.codertoro.top/video/index.html</loc>
     
     <lastmod>2023-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.codertoro.top/link/index.html</loc>
-    
-    <lastmod>2023-02-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -6,8 +6,8 @@ type: "link"
 ## 我的信息
 ``` bash
 name: CoderToro Blog
-link: https://codertoro.top/
-avatar: https://bu.dusays.com/2023/01/17/63c67d92e2151.jpeg
-descr: 一个懒人的博客。
+link: https://www.codertoro.com/
+avatar: http://oss.codertoro.top/Bucket/img/logo/%E5%A4%B4%E5%83%8F.jpeg
+descr: CV专家 & 摆烂大王。
 ```
 
