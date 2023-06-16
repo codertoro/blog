@@ -114,7 +114,8 @@ katex:
 
 # Favicon（网站图标）
 # favicon: http://oss.codertoro.top/Bucket/img/logo/favicon.png
-favicon: http://oss.codertoro.top/Bucket/img/logo/logo.jpeg
+# favicon: http://oss.codertoro.top/Bucket/img/logo/logo.jpeg
+favicon: https://bu.dusays.com/2023/01/17/63c67d92ddb5f.jpeg
 
 # Avatar (头像)
 avatar:
