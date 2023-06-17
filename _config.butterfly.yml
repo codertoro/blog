@@ -21,8 +21,10 @@ menu:
     #随笔: /diary/ || fa fa-book faa-shake animated
     友链: /link/ || fa fa-link faa-shake animated
     视频: /video/ || fa fa-video faa-shake animated
+    影评: /film/ || fa fa-film faa-shake animated
+    书评: /book/ || fa fa-book faa-shake animated
     留言板: /comment/ || fa fa-paper-plane faa-shake animated
-    网站收藏:  https://myweb.codertoro.top/ || fa fa-earth faa-shake animated
+    网站收藏:  https://web.codertoro.com/ || fa fa-earth faa-shake animated
   #留言板: /messageboard/ || fa fa-paper-plane
     关于我: /about/ || fas fa-heart faa-shake animated
 # menu:
@@ -63,7 +65,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/coder-ox || Github
+  fab fa-github: https://github.com/codertoro || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
   fab fa-qq: https://cdn.staticaly.com/gh/coder-ox/image_hosting@master/20221203/qrcode_1670064925207.135x7l3tculc.webp || qq
   fab fa-weixin: https://cdn.staticaly.com/gh/coder-ox/image_hosting@master/20221203/image.1flu2ilwgjhc.webp || wechat
@@ -738,12 +740,12 @@ aside:
     button:
       enable: true
       icon: fa fa-user
-      text: About me
-      link: https://codertoro.top/about/
+      text: 个人主页
+      link: https://www.codertoro.com/
   #公告栏设置
   card_announcement:
     enable: true
-    content: 1月16日-建站第一天
+    content: 23年1月16日-建站第一天
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -883,8 +885,8 @@ note:
 pjax:
   enable: true
   exclude:
-    # - xxxx
-    # - xxxx
+    - /film/
+    - /book/
 aplayer:
   meting: true
   asset_inject: false

@@ -199,3 +199,34 @@ hexo_external_link:
   link_rel: 'external nofollow noopener noreferrer'
   domain: 'your_domain' # 如果开启了防盗链
   safety_chain: false
+
+
+# 豆瓣 
+douban:
+  # id: 162448367
+  id: 262703753
+  builtin: true  #是否将hexo douban命令默认嵌入进hexo g、hexo s
+  item_per_page: 10   #每页展示的条目数，默认 10 
+  meta_max_line: 4    #每个条目展示的详细信息的最大行数，超过该行数则会以 "..." 省略，默认 4
+  customize_layout: page
+  book:
+    path: book/index.html
+    title: 'CoderToro的书架'
+    quote: 'book'
+    option:
+  movie:
+    path: film/index.html
+    title: 'CoderToro的电影'
+    quote: 'movies'
+    option:
+  # game:
+  #   path: games/index.html
+  #   title: 'This is my game title'
+  #   quote: 'This is my game quote'
+  #   option:
+  # song:
+  #   path: songs/index.html
+  #   title: 'This is my song title'
+  #   quote: 'This is my song quote'
+  #   option:
+  timeout: 10000 
