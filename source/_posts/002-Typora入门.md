@@ -6,7 +6,6 @@ cover: >-
 categories:
   - 学习笔记
   - 软件使用
-  - Typora
 abbrlink: 72e451f7
 date: 2022-01-25 17:37:34
 ---
